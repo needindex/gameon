@@ -1,0 +1,24 @@
+S_1 	 reward 	stake, gold, medal, outcome, blame, heart, injury, ball, stars, growth, interest, level	,speed, knowledge, life, money, start, continue, career, play, win, title, cup,tie, goal, points,extra, bonus, award score, rank, record, reward, mana, lp, fp, hp, sp
+S_2 	 visual 	graffiti, red, black, white, green, yellow, blue, line, visual, pixel, background
+S_3 	 characters 	warden, female, sex, killed, name, talk, star,growth, senior, head, speed, life, family, machines, trickster, villain, boss, hero, character, player, protagonist, antagonist
+S_4 	 animals 	fish, cat, fish, mouse, animal, dog, pet      
+S_5 	sports 	 fishing, chess, scrabble, puzzles, slot, poker, roulette, amateur, yards, ball, golf, runs, trip, game, play, player, team, coach, basketball, baseball, football, league, club, season, final, cup, playoff, championship	tournament, doubleheader, pitch, inning	bowl, sport, athlete, olympic
+S_6 	screen 	 inches, refresh, led, bit, pixel,screen
+S_7 	 camera 	   tape, led, field, camera, lens, focus, stabilization, pixel 
+S_8 	 video 	clip amateur, refresh, live, bit, play, film, hd, 4k, decoder, video 
+S_9 	audio 	  tape, tempo, amateur, live	talk, peak, level, volume, bit, play, sound, music, song, pitch, decoders, beat, track, audio
+S_10 	graphics	  facet, nuance,  refresh, speed, bit, fan, fps, graphic, 3d, 2d, vector, polygonal, hd, 4k acceleration, gpu, frame, sprite, bitmap, texture, complexity, realism, interface, antialiasing, resolution, ray tracing, rate, ar, vr 
+S_11	game play	 society, concentrate, amateur, instruction, quiz, engaging, phase, injury, flow, levels, rules, campaign, plan  game play, roguelike, platform, action, puzzle, strategy, dance, fight, strategy, battle, rpg, adventure, simulator, emulator  
+S_12	mode 	safer, amateur, stage, live, easy, course, senior, show, home, family, history, start, continue, career, game, player, team, final, championship, tournament, single, story  mode, cooperative, offline, online, ar, vr, first person, third person, party 
+S_13	app	developers, amateur, update, name,run, version, app, ios, android, download, beta, release, compatibility, bug, debug, crash
+S_14	storytelling	 transcription, suspension, essence, spirit	,evolution, blame, sex, phase, feed, talk, mental, flow, peak, growth, course, line, history, future, past, present, play, legend, story, storytelling, narration
+S_15	quality	quality, consistency, integrity, respect, pace, duration, speed, bit      
+S_16	locations	 local, inland, eastern, western, room, locker	clubhouse, exhibition, stage, store, location, home, field, location, indoor, outdoor 
+S_17	education	  education, student, school, college, instruction, classroom, brain, growth, level, course, knowledge, career, tutorial, education, lecture, tutor, teacher, learning, teaching, skill      
+S_18	gps 	 gps, satellite, refresh, trip,accuracy      
+S_19	age	 young, kid, adult
+S_20	business model	 ads, ad, free, play, subscription	freemium, freeware, shareware, exclusive, order, plan, line, money, rental, business, transaction, dlc      
+S_21	media	 radio, tv, television, cartidge, rom, cd, dvd, bluray, download, system, phone, led, machines, film, movie, book, comic, print
+S_22	game control	control, pressure, sensitivity, precision, accuracy, latency, delay, head, control, rules, speed, phone, led, start, continue, play, player, team, controller, pad, joystick, accelerometers, gyroscopic, button, cursor, ergonomic, usability      
+S_23	experience	pressure, engaging, ease, flow, interest, knowledge, future, trip, win, fan, excitement, beauty, fun, passion, love, addiction
+S_24  	gender	 male, female, unisex      
